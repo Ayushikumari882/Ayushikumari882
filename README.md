@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushikumari882
 - 👀 I’m interested in Artificial Intelligence And Data Science .
 - 🌱 I’m currently exploring domains under Ai & Ds .
-- 💞️ I’m looking to collaborate on Web development projects.
+- 💞️ I’m looking to collaborate on Artificial intelligence projects.
 - 📫 How to reach me ayku0882@gmail.com .
 
 <!---
